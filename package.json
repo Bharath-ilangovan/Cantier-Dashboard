@@ -10,10 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ag-grid-community": "^33.0.2",
+    "ag-grid-react": "^33.0.2",
+    "axios": "^1.7.9",
     "CDS": "github:Bharath-ilangovan/CDS",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.28.0"
+    "react-router-dom": "^7.0.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
